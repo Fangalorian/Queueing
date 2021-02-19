@@ -26,6 +26,7 @@ Some usage examples:
 **do()** and **doFree()** take comma separated strings as parameters so they can count how many actions you're placing in the alias. They then build and set the alias.
 
 queue.do('ent', 'group', 'wield eyesigil', 'throw eyesigil at ground');
+
 queue.doFree('get sovereigns', 'put sovereigns in pack');
 
   
