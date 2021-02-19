@@ -1,6 +1,9 @@
 # Queueing
 
-Pretty basic framework for queueing on Nexus using in game aliases.  
+Pretty basic framework for queueing on Nexus using in game aliases.
+
+Queue.nxs is what you want to import into Achaea.
+Queue.js is the same as (function) Queue in the Nexus Settings. It's there if you want to see the underlying code outside of the client.
 
 Comes with 4 functions:
 
